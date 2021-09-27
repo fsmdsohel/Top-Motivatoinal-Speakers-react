@@ -1,0 +1,20 @@
+.aside {
+  border-radius: 7px;
+}
+.aside-cart {
+  display: flex;
+  align-items: center;
+  border-radius: 7px;
+  border: 1px solid #dbdbdb94;
+  background-color: #f5f5ff;
+  margin: 15px 0;
+}
+.aside-cart > img {
+  height: 60px;
+  width: 60px;
+  border-radius: 7px 0 0 7px;
+}
+
+.aside-cart > h6 {
+  margin-left: 10px;
+}
